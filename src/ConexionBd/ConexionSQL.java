@@ -27,6 +27,7 @@ public class ConexionSQL {
             Logger.getLogger(ConexionSQL.class.getName()).log(Level.SEVERE, null, ex);
         }
         return conectar;
+        //Taciturno11 gooooo
     }
 
 }
